@@ -1,0 +1,6 @@
+{
+  "name": "Calendar",
+  "description": "Native Android Calendar app for monthly planning, tasks, events, reminders, student study features, and offline local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
